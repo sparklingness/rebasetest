@@ -1,5 +1,4 @@
 # rebasetest
-
 a
 b
 c
