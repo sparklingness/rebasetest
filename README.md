@@ -1,3 +1,4 @@
 # rebasetest
 
 a
+b
